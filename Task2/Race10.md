@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -25,7 +26,9 @@ int main() {
     }
     return 0;
 }
+```
 
 ```
 Here they have mentioned distance of bob from x and y should be less than that of alice so i used abs() function its like modulas function and compared distaces
 ```
+
