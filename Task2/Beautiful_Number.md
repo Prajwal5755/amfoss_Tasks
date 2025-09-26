@@ -1,3 +1,4 @@
+```
 def smallest(n):
     digits = list(map(int, n))
     digits.sort()
@@ -16,3 +17,4 @@ t = int(input())
 for _ in range(t):
     n = input().strip()
     print(smallest(n))
+```
